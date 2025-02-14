@@ -4,4 +4,4 @@ Mission: "Empower students and educational insitutions to navigate AI in educati
 
 Vision : "A world where AI can be used in education without doubt and complete confidence."
 
-[andl.io](andl.io)
+https://andl.io
